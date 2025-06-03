@@ -1,4 +1,0 @@
-{
-  "slack_webhook": "your_webhook_url",
-  "regions": ["us-west-2"]
-}
