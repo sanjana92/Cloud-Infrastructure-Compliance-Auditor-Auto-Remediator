@@ -132,7 +132,7 @@ python scripts/send_alerts.py
 
 ---
 
-## 📈 Sample Report Output (JSON)
+## 📈Report Output (JSON)
 
 ```json
 {
@@ -167,17 +167,8 @@ python scripts/send_alerts.py
 
 ---
 
-## 👨‍💼 Ideal For
-
-- DevSecOps Engineer Portfolios
-- Cloud Security Analysts
-- AWS Security Automation Demos
-- GitHub Projects for Recruiters
-
 ---
 
-## 📜 License
 
-MIT License — Free to use and modify.
 
 
