@@ -1,6 +1,4 @@
-# Cloud Infrastructure Compliance Auditor & Auto-Remediator (CICAR)
 
-This tool scans AWS resources (EC2, S3, IAM) for misconfigurations and optionally triggers remediation.
 
 # Cloud Infrastructure Compliance Auditor & Auto-Remediator (CICAR)
 
